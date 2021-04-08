@@ -21,7 +21,9 @@ The libraries which we are going to use are as follows:
 1. What is Naive Bayes? - https://www.youtube.com/watch?v=O2L2Uv9pdDA
 2. https://developers.google.com/machine-learning/guides/text-classification/step-3
 3. CountVectorizer vs TFidfVectorizer - https://www.youtube.com/watch?v=WN18JksF9Cg
-4. 
+4. What are stop words? - https://kavita-ganesan.com/what-are-stop-words/#.YG7tG-gzY2w
+5. Basics of Regex - https://www.w3schools.com/python/python_regex.asp#:~:text=A%20RegEx%2C%20or%20Regular%20Expression,contains%20the%20specified%20search%20pattern.
+6. Vectorization in NLP (highly recommended) - https://towardsdatascience.com/getting-started-with-text-vectorization-2f2efbec6685
 
 
 
