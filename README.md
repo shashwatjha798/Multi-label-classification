@@ -1,9 +1,9 @@
 # MIDAS@IIIT-D (http://midas.iiitd.edu.in/)
 
 Dataset - https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing
-The dataset consists of 20,000 rows and 15 columns.
+The dataset consists of *20,000* rows and *15* columns.
 
-The aim of this project is to identify the product category with the help of it's description. Therefore we are using the product description as our main feature and category as target. 
+The aim of this project is to identify the product category with the help of it's description. Therefore we are using the product **description** as our main feature and **category** as target. 
 
 We will use the following algorithms for this classification task:
 * Multinomial Naive Bayes
