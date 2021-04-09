@@ -5,7 +5,11 @@ The dataset consists of 20,000 rows and 15 columns.
 
 The aim of this project is to identify the product category with the help of it's description. Therefore we are using the product description as our main feature and category as target. 
 
-We will use Multinomial Naive Bayes algorithm for this classification.
+We will use the following algorithms for this classification task:
+* Multinomial Naive Bayes
+* Logistic Regression
+* Stochastic Gradient Descent (SGD)
+* Support Vector Machines
 
 We are using Jupyter Notebook for coding purpose. 
 
