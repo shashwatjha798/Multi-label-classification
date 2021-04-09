@@ -24,6 +24,6 @@ The libraries which we are going to use are as follows:
 4. What are stop words? - https://kavita-ganesan.com/what-are-stop-words/#.YG7tG-gzY2w
 5. Basics of Regex - https://www.w3schools.com/python/python_regex.asp#:~:text=A%20RegEx%2C%20or%20Regular%20Expression,contains%20the%20specified%20search%20pattern.
 6. Vectorization in NLP (highly recommended) - https://towardsdatascience.com/getting-started-with-text-vectorization-2f2efbec6685
-
-
+7. Multi-Class Text Classification Model Comparison and Selection - https://towardsdatascience.com/multi-class-text-classification-model-comparison-and-selection-5eb066197568
+8. TfidfVectorizer() vs TfidfTransformer() (Recommeded) - https://towardsdatascience.com/tf-idf-explained-and-python-sklearn-implementation-b020c5e83275#:~:text=TF-IDF%20stands%20for%20Term,documents%20from%20the%20same%20corpus.
 
