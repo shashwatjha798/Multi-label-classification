@@ -21,6 +21,7 @@ The libraries which we are going to use are as follows:
 - NLTK
 
 ## Resources
+Kindly go through the following resources/blogs mentioned below, before referring to the code!
 
 1. What is Naive Bayes? - https://www.youtube.com/watch?v=O2L2Uv9pdDA
 2. https://developers.google.com/machine-learning/guides/text-classification/step-3
