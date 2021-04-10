@@ -1,6 +1,6 @@
 # MIDAS@IIIT-D (http://midas.iiitd.edu.in/)
 
-Dataset - https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing
+Dataset - https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing<br>
 The dataset consists of *20,000* rows and *15* columns.
 
 The aim of this project is to identify the product category with the help of it's description. Therefore we are using the product **description** as our main feature and **category** as target. 
@@ -20,11 +20,11 @@ The libraries which we are going to use are as follows:
 - Matplotlib
 - NLTK
 
-## Resources
+## Resources/References
 Kindly go through the following resources/blogs mentioned below, before referring to the code!
 
 1. What is Naive Bayes? - https://www.youtube.com/watch?v=O2L2Uv9pdDA
-2. https://developers.google.com/machine-learning/guides/text-classification/step-3
+2. Vectorization: https://developers.google.com/machine-learning/guides/text-classification/step-3
 3. CountVectorizer vs TFidfVectorizer - https://www.youtube.com/watch?v=WN18JksF9Cg
 4. What are stop words? - https://kavita-ganesan.com/what-are-stop-words/#.YG7tG-gzY2w
 5. Basics of Regex - https://www.w3schools.com/python/python_regex.asp#:~:text=A%20RegEx%2C%20or%20Regular%20Expression,contains%20the%20specified%20search%20pattern.
