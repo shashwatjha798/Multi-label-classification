@@ -1,4 +1,4 @@
-# MIDAS@IIIT-D (http://midas.iiitd.edu.in/)
+Product ategorization - Multi-class classification
 
 Dataset - https://docs.google.com/spreadsheets/d/1pLv0fNE4WHokpJHUIs-FTVnmI9STgog05e658qEON0I/edit?usp=sharing<br>
 The dataset consists of *20,000* rows and *15* columns.
